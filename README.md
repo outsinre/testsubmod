@@ -1,0 +1,3 @@
+# testsubmod
+
+To test submodules.
