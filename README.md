@@ -1,3 +1,3 @@
 # testsubmod
 
-To test submodules.
+To test submodules initialization and update.
