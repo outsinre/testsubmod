@@ -2,4 +2,4 @@
 
 To test submodules initialization and update.
 
-Merge.
+Submodule is complex and be careful!
